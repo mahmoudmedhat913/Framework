@@ -3,7 +3,7 @@
     Alx Project
 {/block}
 {block name=appname}
-    "Calculate" // Ignore that now i will tel you later
+    "Calculate"
 {/block}
 {block name=pageName}
     cost type
