@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "pinia": "^2.2.1",
+    "vue": "^3.4.34"
+  },
+  "name": "hospital_version1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
